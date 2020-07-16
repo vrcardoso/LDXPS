@@ -3,6 +3,8 @@ Sistema de visualização, edição, criação e exclusão, de vendedores e clie
 
 DEPENDENCIAS
 
+ Postgre 9.5.7
+
  bootstrap@^4.5.0
  
  -npm install bootstrap
