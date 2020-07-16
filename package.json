@@ -1,0 +1,22 @@
+{
+  "name": "ldxps",
+  "version": "1.0.0",
+  "description": "Aplicativo para visualizacao, criacao e  edicao, de vendedores e clientes",
+  "main": "window.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Vitor_Ramos_Cardoso",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "electron": "^9.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "jquery-maskmoney": "^3.0.2",
+    "pg": "^8.3.0",
+    "pg-hstore": "^2.3.3"
+  }
+}

@@ -1,0 +1,31 @@
+
+body{
+ background-color: rgb(37, 37, 37);
+
+}
+
+
+
+/*Vendedor*/
+#vend{
+    margin-top: 20px;
+}
+.opcoes-vend{
+    margin-top: 65px;
+    
+}
+.opcoes-vend .btn{
+    background-color: #333333;
+}
+
+/* Cliente*/
+.opcoes-cli{
+    margin-top: 20px;
+    padding-right: 10px;
+    text-align: right;
+    
+}
+.opcoes-cli .btn{
+    background-color: #333333;
+}
+
