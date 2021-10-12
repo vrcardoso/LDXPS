@@ -10,7 +10,7 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "electron": "^9.1.0"
+    "electron": "^11.5.0"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
